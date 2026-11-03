@@ -1,0 +1,16 @@
+{
+  "name": "Sabancı University Room Finder",
+  "short_name": "SU Rooms",
+  "description": "Find free classrooms and check room occupancy at Sabancı University",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a192f",
+  "theme_color": "#002855",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23002855'/><text x='50' y='65' font-size='48' font-family='sans-serif' font-weight='bold' fill='%23c49a45' text-anchor='middle'>SU</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
